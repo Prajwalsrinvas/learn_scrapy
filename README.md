@@ -1,4 +1,4 @@
-# Learn Scrapy
+# Learn Scrapy 🕷️ 
 
 My practice code while doing this course:  
 [Scrapy Unleashed: Master Python Web Scraping & Data Pipeline](https://www.udemy.com/course/scrapy-masterclass-python-web-scraping-and-data-pipelines)
