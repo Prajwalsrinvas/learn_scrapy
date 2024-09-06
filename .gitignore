@@ -1,0 +1,5 @@
+*_venv
+.scrapy
+minio
+.env
+.env
